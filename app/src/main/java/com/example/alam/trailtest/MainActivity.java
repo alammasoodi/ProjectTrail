@@ -167,7 +167,7 @@ public class MainActivity extends Activity {
 
 
         }
-
+//touch method
         @Override
         public boolean onTouchEvent(MotionEvent event) {
             if(!startingTime){
